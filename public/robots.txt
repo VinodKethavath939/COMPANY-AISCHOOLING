@@ -1,0 +1,14 @@
+# AI Schooling - Robots.txt
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://company-aischooling-am5d.vercel.app/sitemap.xml
+
+# Google Bot
+User-agent: Googlebot
+Allow: /
+
+# Bing Bot
+User-agent: Bingbot
+Allow: /
